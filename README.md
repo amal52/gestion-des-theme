@@ -1,3 +1,9 @@
+les etapes nécessaires : 
+  1-git clone 
+  2-npm install 
+  3-vérifier la versiion d'angular avec : npm list @angular/material
+      ------si version de langular ce n'est pas 17 changer le avec cette cmd : npm install @angular/material@17 @angular/cdk@17 --legacy-peer-deps
+  4-ng serve 
 # Angular17
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
